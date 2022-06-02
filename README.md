@@ -10,6 +10,11 @@ This application is built on the concept of OOPs (Object Oriented Programming) s
 
 ![Main Display Screen of the Console-based Project](https://github.com/Mansi021/Vehicle-Rental-System-Console-Based-Program/blob/main/images/2.png)
 
+# Software Specifications
+
+- Software( IDE used):- Virtual Studio Code (VS Code) 
+- Compiler used :- MingW
+
 # Aims & Objectives
 
 Create an online system that allows customers to register and reserve vehicles online while also allowing the company to manage their vehicle rental business successfully.
