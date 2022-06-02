@@ -1,0 +1,7 @@
+101 Ford-Ecosport Sport Metallic-Grey 2021 50 10000 
+102 Honda-Amaze Luxury White 2020 55 8000 
+103 Hyundai-Verna Premium-Sedan Black 2020 40 9000 
+104 Hyundai-i20 SUV Red 2021 45 9500 
+105 Maruti-Suzuki-Dzire Compact-Sedan Blue 2020 55 11000 
+106 Hyundai-Santro-Xing Ordinary-Car Grey 2020 30 6000 
+107 Maruti-WagonR seater-MUV Brown 2018 43 70000
