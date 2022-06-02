@@ -16,6 +16,10 @@ Create an online system that allows customers to register and reserve vehicles o
 
 To make the work of renting a vehicle easier for customers.
 
+# Flowchart of the System
+
+![Depicts the overall working of the system](https://github.com/Mansi021/Vehicle-Rental-System-Console-Based-Program/blob/main/images/1.png)
+
 # Features of the Project
 
 1. Add/Delete information of new vehicles.
